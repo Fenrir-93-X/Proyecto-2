@@ -1,0 +1,14 @@
+En este Proyecto trabajamos con los datos de una empresa telefónica, por lo que tenemos los datos de varios archivos; después de preparar los datos para trabajar con ellos, 
+realizamos un análisis comparativo entre los planes Surf y Ultimate, enfocándonos en los patrones de consumo, la rentabilidad y el comportamiento regional de los usuarios.
+
+El estudio reveló dinámicas de uso muy distintas entre ambos planes. A pesar de que el plan Surf tiene un costo base menor de $20, genera más ingresos por usuario ($131.93 en promedio) 
+en comparación con el plan Ultimate ($78.74). Esto se debe a que el 97.6% de los usuarios de Surf exceden los límites de su plan, acumulando cargos adicionales que pueden llegar hasta $591 mensuales. 
+En contraste, el plan Ultimate presenta una base de clientes más estable, con solo un 39.6% de usuarios que sobrepasan los límites, lo que sugiere que sus 3000 minutos, 1000 mensajes y 30 GB 
+son suficientes para el consumo promedio de sus usuarios.
+
+Esta tendencia se confirma al analizar el consumo promedio: los usuarios de Surf consumen más minutos (198.5 vs 194.1), envían más mensajes (10.2 vs 5.6) y utilizan más datos (4.3 GB vs 2.1 GB) 
+que los usuarios de Ultimate. Además, la prueba de hipótesis regional no mostró diferencias significativas en ingresos entre la zona de NY-NJ y otras regiones, lo que indica que los patrones de consumo 
+son consistentes geográficamente.
+
+Como conclusión, el plan Surf resulta más rentable por usuario para la compañía debido a los ingresos por excesos, mientras que el plan Ultimate ofrece mayor predictibilidad de costos para el cliente.
+Estos hallazgos permiten a la empresa comprender mejor el comportamiento de sus usuarios y ajustar sus estrategias comerciales y de retención
